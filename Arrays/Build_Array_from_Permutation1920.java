@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     public int[] buildArray(int[] nums) {
         int n = nums.length;
